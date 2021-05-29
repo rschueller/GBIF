@@ -1,9 +1,7 @@
 ##gbif credentials, package listing, 
 ##working directory (documentation to describe appropriate folder nomenclature for reproduction)
 
-user <- "rschueller"
-pwd <- "res3331"
-email <- "r.schueller@umiami.edu"
+
 
 install.packages("leaflet")
 install.packages("rgbif")
